@@ -1,9 +1,3 @@
-# 1-digit numbers: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
-# 3-digit numbers: 153, 370, 371, 407
-# 4-digit numbers: 1634, 8208, 9474
-
-
-
 # Take a number to check whether it is an Armstrong number or not
 num = int(input("Take a number to check whether it is an Armstrong number or not: "))
 
